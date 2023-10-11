@@ -1,0 +1,17 @@
+:root{
+  --Color_Text: #f5f5f5;
+  --Color_Main: #363062;
+  --Color_Main2: #4D4C7D;
+  --Color_Main3: #F99417;
+}
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: var(--Color_Main);
+  color: var(--Color_Text);
+}
